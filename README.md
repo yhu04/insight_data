@@ -1,5 +1,4 @@
-# insight_data
-Insight Data Science Coding Challenge 
+# Insight Data Science Coding Challenge 
 Author: Yue Hu 
 Time: July 11, 2016
 Applied Session: Sep 06, 2016
