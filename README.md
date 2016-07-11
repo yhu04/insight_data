@@ -16,7 +16,7 @@
 2.The easiest way for installing Numpy 
 > pip install numpy
 
-There is also a link from official website of Numpy.
+There is also a link from official website of Numpy for installation. 
 
 http://docs.scipy.org/doc/numpy-1.10.1/user/install.html
 
