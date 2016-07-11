@@ -76,7 +76,6 @@ def main(input_file_name,output_file_name):
 
 	with open(input_file_name) as venmo_input:
 		for line in venmo_input:
-			print graph
 			created_time, target, actor = extract_info(line)
 			# make sure there is no missing values for actors 
 			if actor != None:
