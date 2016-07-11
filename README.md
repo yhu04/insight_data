@@ -23,12 +23,11 @@ http://docs.scipy.org/doc/numpy-1.10.1/user/install.html
 3.Put the input file into the folder of ./venmo_input and change its name into ./venmo_input/venmo-trans.txt.
 
 4.Run 
+
 > chmod u+x 
+
 > run.sh 
 
 The output will be expected in ./venmo_input/output.txt.
-
-5. If 
-
 
 
